@@ -122,6 +122,9 @@ PRODUCT_PACKAGES += \
     VisualizationWallpapers \
     librs_jni
 
+# FM Radio
+PRODUCT_PACKAGES += \
+    FM2
 
 # Wifi
 PRODUCT_PACKAGES += \
